@@ -10,6 +10,7 @@ body {
   font-family: "vazir", sans-serif;
 }
 header {
+  width: 100vw;
   background: #37517e;
 }
 .align-items-center {
